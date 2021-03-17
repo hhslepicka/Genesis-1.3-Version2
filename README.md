@@ -1,6 +1,16 @@
 The latest release of Genesis supports parallel computer architecture,
 based on the Message Passing Interface (MPI) protocol.
 
+# Fork Notice
+
+Sven Reiche (original author of Genesis-1.3-Version2) developed it for a long time up until 2017.
+After that, he switched to developing Genesis-1.3-Version4, which despite the name is a completely different codebase switched from Fortran (Version2) to C++ (Version4).
+
+We had many local patches scattered over SLAC and people still use Genesis Version2.
+
+@ChristopherMayes reached out to Sven who allowed us to Fork and keep working on bug fixes for the code of Genesis-1.3-Version2 including adding it into conda-forge.
+
+
 # Precompiled
 
 ## Anaconda
